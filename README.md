@@ -557,7 +557,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## 📞 Destek
 
 - **Email**: mehmetemingocen18@gmail.com
-- **Web**: [mehmetemingocen18@gmail.com](https://www.mehmetemingocen.com.tr/)
+- **Web**: [https://www.mehmetemingocen.com.tr](https://www.mehmetemingocen.com.tr/)
 - **GitHub Issues**: [Issues sayfası](https://github.com/mehmetemingocen/ecommerce-chatbox-widget/issues)
 - **Dokümantasyon**: [Wiki sayfası](https://github.com/mehmetemingocen/ecommerce-chatbox-widget/wiki)
 
