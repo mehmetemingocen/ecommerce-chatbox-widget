@@ -540,10 +540,7 @@ function runTests() {
 - [ ] **Çoklu Dil Desteği** - i18n entegrasyonu
 - [ ] **Sesli Mesajlar** - Voice-to-text desteği
 - [ ] **Görsel Mesajlar** - Resim ve emoji desteği
-- [ ] **Canlı Video** - WebRTC entegrasyonu
 - [ ] **Otomatik Çeviri** - Google Translate entegrasyonu
-- [ ] **Sentiment Analizi** - Kullanıcı duygu analizi
-- [ ] **A/B Testing** - Farklı chatbox versiyonları
 
 ## 🤝 Katkıda Bulunma
 
@@ -559,9 +556,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📞 Destek
 
-- **Email**: destek@siteniz.com
-- **GitHub Issues**: [Issues sayfası](https://github.com/kullaniciadi/chatbox-widget/issues)
-- **Dokümantasyon**: [Wiki sayfası](https://github.com/kullaniciadi/chatbox-widget/wiki)
+- **Email**: mehmetemingocen18@gmail.com
+- **Web**: [mehmetemingocen18@gmail.com](https://www.mehmetemingocen.com.tr/)
+- **GitHub Issues**: [Issues sayfası](https://github.com/mehmetemingocen/ecommerce-chatbox-widget/issues)
+- **Dokümantasyon**: [Wiki sayfası](https://github.com/mehmetemingocen/ecommerce-chatbox-widget/wiki)
 
 ## 🙏 Teşekkürler
 
